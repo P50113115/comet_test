@@ -80,7 +80,7 @@
     </Publisher>
     <RootComponents>
       <RootComponent type="1" schemaName="contact" behavior="1" />
-      <RootComponent type="61" schemaName="new_Contact_Type_Test" behavior="0" />
+      <RootComponent type="61" schemaName="new_Comet_Test_Demo" behavior="0" />
     </RootComponents>
     <MissingDependencies />
   </SolutionManifest>
